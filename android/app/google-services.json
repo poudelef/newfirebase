@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5809387071",
+    "project_id": "newfirebase-feedc",
+    "storage_bucket": "newfirebase-feedc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5809387071:android:94652e8b53a3e6a7dc2a8a",
+        "android_client_info": {
+          "package_name": "com.example.newfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5809387071-7o6mtsmgp5dr996nf51l6kd63lcs5dns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp_aIcM8n4qDz7ZiOsOLEQpadAyiUhR3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5809387071-7o6mtsmgp5dr996nf51l6kd63lcs5dns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
